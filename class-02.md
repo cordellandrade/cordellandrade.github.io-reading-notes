@@ -1,12 +1,12 @@
 # Class 2 Reading Summary
 
 ## Structural Markup
-- To provide extra meaning to your webpage you can use **Structural markup** such as <h1>, <p>, <b>, to describe headings and paragraphs.
-- You can also use <br> and <hr> to break your page into parts.
+- To provide extra meaning to your webpage you can use **Structural markup** such as ```<h1>, <p>, <b>,``` to describe headings and paragraphs.
+- You can also use ```<br> and <hr>``` to break your page into parts.
 
 ## Semantic Markup
 - You can use text elements that do not affect the structure of your web page but add extra information to them.
-- Text elements such as <strong>, <em> are categorized as **semantic markup**.
+- Text elements such as ```<strong>, <em>``` are categorized as **semantic markup**.
 
 ## Introducing CSS
 - CSS creates the effect that each html elements appear to be inside its own box and uses rules to indicate how that elements should look.
