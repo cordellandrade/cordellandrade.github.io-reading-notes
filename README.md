@@ -3,8 +3,8 @@
 -This page will be used for **reading assignment notes** and as a *table of contents for 15 daily reading assignments*.
 
 ## Table of Contents
-1.  Class 1[Introductory HTML and JavaScript](class-01.md)
-1.  Class 2
+1.  [Class 1](class-01.md)
+1.  [Class 2](class-02.md)
 1.  Class 3
 1.  Class 4
 1.  Class 5
