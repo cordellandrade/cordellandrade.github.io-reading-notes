@@ -6,7 +6,7 @@
 1.  [Class 1](class-01.md)
 1.  [Class 2](class-02.md)
 1.  [Class 3](class-03.md)
-1.  Class 4
+1.  [Class 4](class-04.md)
 1.  Class 5
 1.  Class 6
 1.  Class 7
