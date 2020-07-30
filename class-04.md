@@ -1,4 +1,4 @@
-# Class 3 Reading Summary
+# Class 4 Reading Summary
 
 ## Links
 - Users can creates links in their webpage by using the ```<a>``` element; Using the href attribute the user can indicate what page the link is being linked with.
