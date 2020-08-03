@@ -24,7 +24,7 @@
 
 ### Objects
 
-- An object is a series of variables and functions that represent somethinh from the world around the user.
+- An object is a series of variables and functions that represent something from the world around the user.
 
 - The object is the content in the curly braces. Stored in a variable.
 
