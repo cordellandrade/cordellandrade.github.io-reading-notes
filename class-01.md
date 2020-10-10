@@ -1,5 +1,16 @@
 # Class 1 Reading Summary
 
+## Introduction 
+-Users access websites using software called web browsers ex. Firefox and Chrome
+- When users ask the browser for a web page the request is sent across the internet to a unique computer called the **web server** which hosts the website.
+- Web servers are special computers that are always connected to the Internet.
+- Users can access websites through a range of devices like desktops, laptops, phones and tablets.
+- Websites are created using HTML, CSS, and JavaScript.
+- When users visit a website, that website could be locatd any where in the world; To find the locatation of the web server your browser will first connect to a **Domain Name System** (*DNS*) server.
+- When users connect to the web, they do so via a **Internet Service Provider** (*ISP*). They will type a domain name or web server to a site like google.com then their computer will contact a network of servers called the DNS servers which act like phone books (They tell the computer the IP address associated with the requested domain name.)
+- An IP address is a number up to 12 digits seperated by period / full stops; Every computer connected to the internet has a unique IP address which acts like the computer's phone number.
+- 
+
 ## Structure 
 -HTML pages are text documents that use tags to **give information they surround special meaning**.
 -Tag are *usually* in pairs; An opening tag and a closing tag.
