@@ -11,16 +11,16 @@ Object-oriented programming in JavaScript at its most fundamental level includes
 
 ## Tables
 
-- The <table> element is used to add tables to a web
+- The ```<table>``` element is used to add tables to a web
 page and is created out row by row. Each row is created
-with the <tr> element.
+with the ```<tr>``` element.
 - Inside each row there are a number of cells
-represented by the <td> element (or <th> if it is a
+represented by the ```<td>``` element (or ```<th>``` if it is a
 header).
 - Users can make cells of a table span more than one row
 or column using the rowspan and colspan attributes.
-- For long tables users can split the table into a <thead>,
-<tbody>, and <tfoot>.
+- For long tables users can split the table into a ```<thead>```,
+```<tbody>```, and ```<tfoot>```.
 
 ## Functions, Methods, and Objects
 
