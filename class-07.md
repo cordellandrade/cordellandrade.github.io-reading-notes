@@ -1,4 +1,4 @@
-# Class 4 Reading Summary
+# Class 7 Reading Summary
 
 ## Domain Modeling
 - The process of creating conceptual model in code for specific problems; The model describes the various entities, their attributes and behaviors. An Entity that stores data in properties and captures behaviors in methods is referred to as an object-oriented model.
