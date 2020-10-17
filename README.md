@@ -9,7 +9,7 @@
 1.  [Class 4](class-04.md)
 1.  [Class 5](class-05.md)
 1.  [Class 6](class-06.md)
-1.  Class 7
+1.  [Class 7](class-07.md)
 1.  Class 8
 1.  Class 9
 1.  Class 10
