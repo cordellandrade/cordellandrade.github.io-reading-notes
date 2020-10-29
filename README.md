@@ -12,7 +12,7 @@
 1.  [Class 7](class-07.md)
 1.  [Class 8](class-08.md)
 1.  [Class 9 - Forms and JS Events](class-09.md)
-1.  Class 10
+1.  [Class 10 - Error Handling & Debugging](class-10.md)
 1.  Class 11
 1.  Class 12
 1.  Class 13
