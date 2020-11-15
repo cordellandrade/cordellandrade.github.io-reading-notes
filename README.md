@@ -16,5 +16,5 @@
 1.  [Class 11 - Audio, Video, Images](class-11.md)
 1.  [Class 12 - Chart.js, Canvas](class-12.md)
 1.  [Class 13 - Storage](class-13.md)
-1.  Class 14
-1.  Class 15
+1.  [Class 14 - CSS Transforms, Transitions, and Animations](class-14.md)
+1.  _Class 15 = What Google Learned About Teams](Class-15.md)
