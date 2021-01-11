@@ -13,7 +13,7 @@
 
 - The rules are made up of selectors and declarations, different types selectors allows users to target rules at different elements whereas declarations are made up of two parts: The properties of the element that the user wants to change and the values of those properties.
 
--CSS rules normally appear in a separate text file (style.css) although you can apply them within a html doc.
+- CSS rules normally appear in a separate text file (style.css) although you can apply them within a html doc.
 
  ## Basic Javascript Instructions
 - A script is a series of statements which act like a step of a recipe in a cookbook; They contain very precise instructions.
