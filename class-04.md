@@ -16,14 +16,11 @@
  
 ## Functions
 - To create a function, users have to give it a name and then write statements needed to achieve its task inside curly braces; That is known as function declaration.
-
 - After declaring the function you can execute all of the statements inside the curly braces just one line of code; That is known as calling the function.
-
 - If a function is part of an object, it is called a Method.
 
  ## Objects
 - An object is a series of variables and functions that represent something from the world around the user.
-
 - The object is the content in the curly braces. Stored in a variable.
 
  ## "6 Reasons for Pair Programming”
